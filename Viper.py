@@ -10,7 +10,7 @@ class Viper(Animal):
         self.number = Animal._nb_animal
         self.position = (board.x - 0.5, 0.5)
         self.name = "Viper"
-        self.base_target = "Renard"
+        self.base_target = "Fox"
         self.color = "gs"
         self.color_texte = "Green"
         
